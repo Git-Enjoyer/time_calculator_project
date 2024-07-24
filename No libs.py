@@ -41,5 +41,3 @@ def add_time(start, duration, start_day=''):
 
 
 add_time('8:16 PM', '466:02', 'tuesday')
-#6:18 AM, Monday (20 days later)
-#6:18 AM, Monday (20 days later)
